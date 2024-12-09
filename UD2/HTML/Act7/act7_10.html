@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Formulario de Reserva de Vuelo</title>
+</head>
+<body>
+    <form>
+        <label for="nombre_completo">Nombre Completo:</label>
+        <input type="text" id="nombre_completo" name="nombre_completo" minlength="3" placeholder="Escribe tu nombre completo" required>
+        <label for="fecha_salida">Fecha de salida:</label>
+        <input type="date" id="fecha_salida" name="fecha_salida" required>
+        <label for="clase">Clase de vuelo:</label>
+        <select id="clase" name="clase" required>
+            <option value="economica">Económica</option>
+            <option value="ejecutiva">Ejecutiva</option>
+            <option value="primera_clase">Primera Clase</option>
+        </select>
+        <p>¿Necesita equipaje adicional?</p>
+        <input type="radio" name="equipaje" value="si" required> Sí
+        <input type="radio" name="equipaje" value="no"> No
+        <button type="submit">Reservar Vuelo</button>
+    </form>
+</body>
+</html>

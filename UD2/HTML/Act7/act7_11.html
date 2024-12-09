@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Formulario de Encuesta</title>
+</head>
+<body>
+    <form>
+        <label for="nombre">Nombre:</label>
+        <input type="text" id="nombre" name="nombre" placeholder="Escribe tu nombre">
+        <label for="valoracion">Valoración del servicio:</label>
+        <select id="valoracion" name="valoracion" required>
+            <option value="1">1 estrella</option>
+            <option value="2">2 estrellas</option>
+            <option value="3">3 estrellas</option>
+            <option value="4">4 estrellas</option>
+            <option value="5">5 estrellas</option>
+        </select>
+        <label for="comentarios">Comentarios adicionales:</label>
+        <textarea id="comentarios" name="comentarios" placeholder="Escribe tus comentarios"></textarea>
+        <label>
+            <input type="checkbox" name="mas_encuestas"> Permitir recibir más encuestas
+        </label>
+        <button type="submit">Enviar</button>
+    </form>
+</body>
+</html>
