@@ -1,0 +1,16 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Primer arco de mediapunta con franjas -->
+  <path d="M30 150 Q60 50 90 150" fill="none" stroke="#c0392b" stroke-width="6" />
+  <path d="M35 150 Q60 60 85 150" fill="none" stroke="#ecf0f1" stroke-width="6" />
+  <path d="M40 150 Q60 70 80 150" fill="none" stroke="#c0392b" stroke-width="6" />
+  
+  <!-- Segundo arco de mediapunta con franjas -->
+  <path d="M110 150 Q140 50 170 150" fill="none" stroke="#c0392b" stroke-width="6" />
+  <path d="M115 150 Q140 60 165 150" fill="none" stroke="#ecf0f1" stroke-width="6" />
+  <path d="M120 150 Q140 70 160 150" fill="none" stroke="#c0392b" stroke-width="6" />
+  
+  <!-- Columnas -->
+  <line x1="50" y1="150" x2="50" y2="180" stroke="#2c3e50" stroke-width="6" />
+  <line x1="150" y1="150" x2="150" y2="180" stroke="#2c3e50" stroke-width="6" />
+</svg>

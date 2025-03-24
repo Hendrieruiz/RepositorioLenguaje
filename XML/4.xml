@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE persona [
+<!ELEMENT persona (
+    Nombre,
+    mayor_de_edad,
+    ciudad
+)>
+<!ELEMENT Nombre (cosas,otros)>
+<!ELEMENT mayor_de_edad EMPTY>
+<!ELEMENT ciudad (#PCDATA)>
+<!ELEMENT cosas (#PCDATA)>
+<!ELEMENT otros (#PCDATA)>
+]>
+<persona>
+    <Nombre>
+        <cosas>
+        </cosas>
+        <otros>
+        </otros>
+    </Nombre>
+    <mayor_de_edad></mayor_de_edad>
+    <ciudad>ciudad</ciudad>
+</persona>

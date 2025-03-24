@@ -1,0 +1,71 @@
+::Pregunta 1::
+¿Cuál de los siguientes es un lenguaje de marcado utilizado para estructurar contenido en la web?
+{
+    ~HTML
+    ~CSS
+    ~JavaScript
+    =HTML
+}
+
+::Pregunta 2::
+¿En qué lenguaje de marcado se utiliza la sintaxis <tagname> para definir elementos?
+{
+    ~XML
+    ~HTML
+    ~JSON
+    =HTML
+}
+
+::Pregunta 3::
+¿Cuál de las siguientes afirmaciones sobre XML es correcta?
+{
+    ~XML solo se puede usar para crear páginas web.
+    ~XML es un lenguaje de programación.
+    =XML es un lenguaje de marcado extensible.
+    ~XML no permite la creación de etiquetas personalizadas.
+}
+
+::Pregunta 4::
+¿Qué elemento HTML se utiliza para crear un enlace?
+{
+    ~<link>
+    =<a>
+    ~<href>
+    ~<anchor>
+}
+
+::Pregunta 5::
+¿Cuál es la principal diferencia entre HTML y XHTML?
+{
+    ~XHTML permite etiquetas no cerradas.
+    =XHTML es más estricto en la sintaxis que HTML.
+    ~HTML es más moderno que XHTML.
+    ~No hay diferencia, son lo mismo.
+}
+
+::Pregunta 6::
+¿Qué es un atributo en un lenguaje de marcado?
+{
+    ~Un tipo de etiqueta.
+    ~Un contenido de texto.
+    =Una característica de un elemento que proporciona información adicional.
+    ~Un lenguaje de programación.
+}
+
+::Pregunta 7::
+¿Cuál de los siguientes lenguajes de marcado se utiliza principalmente para datos?
+{
+    ~HTML
+    =XML
+    ~CSS
+    ~JavaScript
+}
+
+::Pregunta 8::
+¿Qué significa "tags" en el contexto de HTML?
+{
+    ~Colores.
+    =Etiquetas que definen elementos.
+    ~Scripts de programación.
+    ~Estilos visuales.
+}

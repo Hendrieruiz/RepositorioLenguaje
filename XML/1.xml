@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<paises>
+    <pais>
+        <nombre>
+            Francia
+        </nombre>
+        <poblacion>
+            59mill
+        </poblacion>
+    </pais>
+    <pais>
+        <nombre>
+                Irlanda
+            </nombre>
+            <poblacion>
+                17mill
+            </poblacion>
+        </nombre>
+    </pais>
+</paises>
